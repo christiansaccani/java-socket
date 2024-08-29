@@ -1,0 +1,26 @@
+<Banca>
+    <ContoCorrente>
+        <Intestatario>
+            <nome>Mario</nome>
+            <cognome>Rossi</cognome>
+        </Intestatario>
+        <numeroConto>111</numeroConto>
+        <ammontareConto>0</ammontareConto>
+    </ContoCorrente>
+    <ContoCorrente>
+        <Intestatario>
+            <nome>Gianni</nome>
+            <cognome>Verdi</cognome>
+        </Intestatario>
+        <numeroConto>22</numeroConto>
+        <ammontareConto>10000</ammontareConto>
+    </ContoCorrente>
+    <ContoCorrente>
+        <Intestatario>
+            <nome>Marco</nome>
+            <cognome>Fonti</cognome>
+        </Intestatario>
+        <numeroConto>1212</numeroConto>
+        <ammontareConto>100000</ammontareConto>
+    </ContoCorrente>
+</Banca>
